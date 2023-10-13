@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/WorkSpace/Seeed/examples/indicator_basis/build/CMakeFiles/bootloader
+D:/WorkSpace/Seeed/examples/indicator_basis/build/CMakeFiles/bootloader.rule
+D:/WorkSpace/Seeed/examples/indicator_basis/build/CMakeFiles/bootloader-complete.rule
+D:/WorkSpace/Seeed/examples/indicator_basis/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/WorkSpace/Seeed/examples/indicator_basis/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/WorkSpace/Seeed/examples/indicator_basis/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/WorkSpace/Seeed/examples/indicator_basis/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/WorkSpace/Seeed/examples/indicator_basis/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/WorkSpace/Seeed/examples/indicator_basis/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/WorkSpace/Seeed/examples/indicator_basis/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
